@@ -3,12 +3,13 @@
 # Welcome to My Github
 
 ## 📱 I interested in
+>Android app programming
+>Web programming using spring framework
+>Flutter :cross platform
 
-
-## 🧾 Who i am
 
 ## 📚 What i study
-
+>I study algorithm using python
 
 ## ✉️ Please connect me
  - My E-Mail: staris@kakao.com
