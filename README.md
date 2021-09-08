@@ -1,3 +1,7 @@
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOdyflame%2Fsungdoolim)](https://hits.seeyoufarm.com)
+
 ### Hi there 👋
 
 # Welcome to My Github
@@ -14,6 +18,11 @@
 ## ✉️ Please connect me
  - My E-Mail: staris@kakao.com
  
+ ### Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=sungdoolim&show_icons=true&theme=tokyonight">
+  
+
+
  
 <!--
 **sungdoolim/sungdoolim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
